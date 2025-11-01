@@ -55,7 +55,7 @@ git clone https://github.com/rishikashetty18/Chess-Clock.git
 Screenshots 
 
 [Home Screen][(screenshots/home_screen.png](https://github.com/rishikashetty18/Chess-Clock/blob/main/home_page.jpg))
-(screenshots/in_game.png)
+
 
 
 
